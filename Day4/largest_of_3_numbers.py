@@ -8,3 +8,5 @@ elif b>a and b>c:
     print(b)
 else:
     print(c)
+
+#time = o(1),space = O(1)
