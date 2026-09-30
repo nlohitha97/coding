@@ -11,4 +11,4 @@ if temp == rem:
 else:
     print("Not a Palindrome")
 
-#Complexity: Time O(d) | Space O(1)
+#Complexity: Time O(log10n) | Space O(1)
